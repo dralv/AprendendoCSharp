@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlaMundo", "OlaMundo\OlaMundo.csproj", "{8E1F70BB-E18F-4AA7-8679-2F93297E7958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{7BAA8166-88D9-439C-9C9B-F82B1DC27C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{7BAA8166-88D9-439C-9C9B-F82B1DC27C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{34E87947-2242-4CB5-ABEE-AA72E0478D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{34E87947-2242-4CB5-ABEE-AA72E0478D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{7BF16EED-4AF7-4DA4-BB8D-6D5A8E331765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{7BF16EED-4AF7-4DA4-BB8D-6D5A8E331765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{AA9FC514-CE84-4E7E-9733-D4F6B11D6C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7BF16EED-4AF7-4DA4-BB8D-6D5A8E331765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF16EED-4AF7-4DA4-BB8D-6D5A8E331765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF16EED-4AF7-4DA4-BB8D-6D5A8E331765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9FC514-CE84-4E7E-9733-D4F6B11D6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9FC514-CE84-4E7E-9733-D4F6B11D6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9FC514-CE84-4E7E-9733-D4F6B11D6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9FC514-CE84-4E7E-9733-D4F6B11D6C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
